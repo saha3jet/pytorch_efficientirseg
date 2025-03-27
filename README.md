@@ -11,6 +11,7 @@ Here is a visual representation of our model:
 ## 🚀 To-Do List
 
 This repository is currently under development. Below are the planned tasks:
+(Will be updated in April, 2025)
 
 ### 📌 Project Setup
 - [ ] Add setup instructions for the training environment
